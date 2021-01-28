@@ -1,1 +1,3 @@
 # issue-tracking
+
+This repository is where we manage all of our issues...
